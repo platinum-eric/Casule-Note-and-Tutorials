@@ -1,4 +1,4 @@
-# Tutorial Note
+# Casule Note and Tutorials
 
 > A notebook for tutorials collection and some casual note
 
